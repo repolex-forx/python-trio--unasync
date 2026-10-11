@@ -1,0 +1,11 @@
+{
+  "org": "python-trio",
+  "repo": "unasync",
+  "versions": [
+    {
+      "commit": "3a0a3bee2a8898766884adca297f1ad131da884b",
+      "tag": "",
+      "parsed_at": "2026-10-11T01:07:49.473726+00:00"
+    }
+  ]
+}
